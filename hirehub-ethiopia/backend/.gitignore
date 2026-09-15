@@ -1,0 +1,13 @@
+node_modules/
+dist/
+coverage/
+.DS_Store
+*.log
+
+# Never commit real secrets
+.env
+.env.local
+
+# Never commit uploaded private files (CVs, logos, avatars)
+uploads/*
+!uploads/.gitkeep
