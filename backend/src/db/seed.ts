@@ -6,6 +6,7 @@
 // admin "reset demo data" endpoint (POST /api/admin/reset-data).
 // ============================================================
 
+import 'dotenv/config';
 import { pool } from '../config/db';
 import {
   SEED_CATEGORIES,
