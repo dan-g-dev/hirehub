@@ -1,4 +1,4 @@
-# HireHub Ethiopia
+# HireHub
 
 A full-stack job and internship platform that connects Ethiopian students and job seekers with employers. It includes job search and filtering, applications with a status timeline, employer and admin dashboards, and AI-assisted CV-to-job matching.
 
